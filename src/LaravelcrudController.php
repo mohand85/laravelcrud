@@ -10,7 +10,7 @@ class LaravelcrudController extends Controller
  
     public function index()
     {
-        echo "c'est bon ";exit;
+        return view('laravelcrud::create');
     }
  
 }
