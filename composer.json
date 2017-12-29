@@ -1,0 +1,13 @@
+{
+    "name": "oulkadi/laravelcrud",
+    "description": "it's a laravel crud package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Oulkadi Samir",
+            "email": "oulkadi_samir@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
